@@ -1,0 +1,4 @@
+$schema: https://azuremlschemas.azureedge.net/latest/managedOnlineEndpoint.schema.json
+name: insurance-charge-online
+description: insurance cost online endpoint
+auth_mode: key
